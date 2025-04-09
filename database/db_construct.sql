@@ -1,7 +1,5 @@
 -- ServerGrid
 -- Server Monitoring Application Framework
--- gingerCoder()
--- gingercoder.com
 
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
@@ -131,4 +129,4 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`userid`, `firstname`, `surname`, `emailaddress`, `telephone`, `jobtitle`, `usertype`, `username`, `password`) VALUES
-(1, 'ServerGrid', 'Admin', 'servergridadmin@tohumuna.com', '0123456', 'System Admin', 5, 'sysadmin', '9e7a2f946feed6a7e4d9d7b5b635b080');
+(1, 'ServerGrid', 'Admin', 'servergridadmin@thecloudhacker.co.uk', '0123456', 'System Admin', 5, 'sysadmin', '9e7a2f946feed6a7e4d9d7b5b635b080');

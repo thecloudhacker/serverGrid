@@ -15,7 +15,7 @@
 </footer>
 
         <!-- Bootstrap and jQuery Includes to reduce loading pauses -->
-        <script src="/web/js/jquery-1.9.1.min.js"></script>
+        <script src="/web/js/jquery-3.7.1.slim.min.js"></script>
         <script src="/web/js/bootstrap.min.js"></script>
     <?php
     if(($b == "virtualrack") && ($c == "display")){
